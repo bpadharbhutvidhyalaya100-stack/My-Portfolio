@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Website</title>
+	<style>
+		h1{padding: 10px; background: green; color: white; text-align: center;}
+	</style>
+</head>
+<body>
+<h1> <marquee bg color=yellow behavior=alternate direction=right;> Welcome to my Portfolio</marquee></h1>
+<a href="My website.html">Home</a>
+<a href="Interest.html">Interest</a>
+<a href="Friend list.html">Friend List</a>
+<a href="Gallery.html">Gallery</a>
+<a href="Contact Me.html">Contact Me</a>
+<!--Opening of About Myself-->
+<h3>About myself</h3>
+<img src="Image/kum.jpg" width="300" height="280">
+<p>Kum Gurung is the name of tech personality of his generation. He Loves helping people to understand new concepts and giving them tools to help them excel in their passion. He is mostly known for developing website, software, android and ios apps according to peoples need.</p>
+<!--My Interest-->
+<h3>My Interest</h3>
+<p>loves discipline, hard work (gym, training), family, luxury items (cars, watches, jets, yachts), helping others (charity, blood donation), his Catholic faith, and the Quran, but strongly dislikes alcohol (due to his father) and tattoos (to donate blood/bone marrow). </p>
+<!--Copyright-->
+<p>Copyright 2025 Kum Gurung</i>
+</body>
+</html>

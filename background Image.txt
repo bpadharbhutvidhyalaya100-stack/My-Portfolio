@@ -1,0 +1,8 @@
+<html>
+<Head>
+<title> Using Background Image </title>
+</head>
+<Body Background="551080.jpg"="GREEN">
+Welcome to my first page
+</body>
+</html>

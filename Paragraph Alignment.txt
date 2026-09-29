@@ -1,0 +1,10 @@
+<html>
+<Head>
+<title> Paragraph alignment </title>
+</head>
+<Body>
+<Palign="left"> This paragraph is left aligned. This is first paragraph.</P>
+<Palign="right">This paragraph is right aligned. This is second paragraph</p>
+<Palign="center"> This paragraph is center aligned. This is third paragraph</P>
+</body>
+</html>

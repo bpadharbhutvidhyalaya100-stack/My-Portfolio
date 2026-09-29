@@ -1,0 +1,8 @@
+<html>
+<Head>
+<title> setting bgcolor </title>
+</head>
+<Body BGCOLOR ="YELLOW"="GREEN">
+Welcome to my first page
+</body>
+</html>

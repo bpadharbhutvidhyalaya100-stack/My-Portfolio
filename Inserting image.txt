@@ -1,0 +1,9 @@
+<html>
+ <head> 
+<title> Inserting image </title>
+</head>
+ <Body> 
+<H1>  Here is an image of micro computer <H1>
+<IMG SRC="Micro Computer.jpg" ALT" Image of microcomputer" width=200 hight=200 align="Center">
+</body>
+</html>  

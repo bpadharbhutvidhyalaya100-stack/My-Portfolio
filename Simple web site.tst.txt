@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Simple website</title>
+</head>
+<body bgcolor="pink">
+<H2>
+<image src="Nepal logo.png" width="5%">
+<font color="Red" size="8">
+COMPUTER GYAN
+</font>
+<font size="5"
+<a href="#"> Home</a>
+<a href="#">Gallery</a>
+<a href="#">Courses</a>
+<a href="#">Contact us/a>
+<a href="#">about</a>
+<a href="#">Registration</a>
+</font>
+</h2>
+</body>
+</html>

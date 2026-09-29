@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>HTML Form</title>
+</head>
+<body>
+<h1> Student Registration Form </h1></center>
+<Form>
+
+</Form>
+</body>
+</html>
